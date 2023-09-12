@@ -3,6 +3,21 @@
     "id": "https://oliviacraig.github.io/meshes-afternoon-annotation/meshes-of-the-afternoon-film-/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Meshes of the Afternoon film " ] },
+    "homepage": [
+      {
+        "id": "The Internet Archive",
+        "type": "Text",
+        "label": { "en": [ "Meshes of the Afternoon film " ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "archive.org",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
     "items": [
       {
         "id": "https://oliviacraig.github.io/meshes-afternoon-annotation/meshes-of-the-afternoon-film-/canvas-1/canvas",
