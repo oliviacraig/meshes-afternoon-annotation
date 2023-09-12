@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://oliviacraig.github.io/meshes-afternoon-annotation/meshes-of-the-afternoon-film-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Meshes of the Afternoon film " ] },
+    "items": [
+      {
+        "id": "https://oliviacraig.github.io/meshes-afternoon-annotation/meshes-of-the-afternoon-film-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 809.0,
+        "items": [
+          {
+            "id": "https://oliviacraig.github.io/meshes-afternoon-annotation/meshes-of-the-afternoon-film-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://oliviacraig.github.io/meshes-afternoon-annotation/meshes-of-the-afternoon-film-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia802900.us.archive.org/8/items/meshesoftheafternoon/Meshes%20of%20the%20Afternoon.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 809.0
+                },
+                "target": "https://oliviacraig.github.io/meshes-afternoon-annotation/meshes-of-the-afternoon-film-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
